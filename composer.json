@@ -1,5 +1,5 @@
 {
-  "name": "joanliam/helloworld",
+  "name": "joanliam123/helloworld",
   "description": "This is demo",
   "type" : "library",
   "keywords": [
@@ -19,7 +19,7 @@
   "license": "MIT",
   "autoload": {
     "psr-4": {
-      "joanliam\\helloworld\\": "src/"
+      "joanliam123\\helloworld\\": "src/"
     }
   }
 }
