@@ -19,7 +19,7 @@
   "license": "MIT",
   "autoload": {
     "psr-4": {
-      "joanliam\\helloworld": "src/"
+      "joanliam\\helloworld\\": "src/"
     }
   }
 }
